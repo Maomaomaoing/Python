@@ -1,0 +1,3 @@
+opencv-python
+ffmpy3
+numpy
